@@ -35,5 +35,5 @@ It´s super handy when you use terminator/tmux or konsole with split screen layo
 
 ![Screenshot](images/terminator.png)
 
-
+![ReadMe_Card](https://github-readme-stats.vercel.app/api/pin/?username=LucEast&repo=RoomPrepper&title_color=3e83c8&text_color=00cb71&icon_color=299bab&bg_color=171717&hide_border=true)
 
